@@ -14,7 +14,7 @@ SynthLab creates realistic, privacy-safe synthetic datasets for development and 
 
 The full project is large, so the complete source package is hosted on Google Drive instead of this repository.
 
-**👉 [Download SynthLab from Google Drive](YOUR_GOOGLE_DRIVE_LINK)**
+**👉 [Download SynthLab from Google Drive]([YOUR_GOOGLE_DRIVE_LINK](https://drive.google.com/drive/folders/1laKsmrKBmaf64jp976Fxcq-GKA6nyQol?usp=sharing))**
 
 How to use it:
 
